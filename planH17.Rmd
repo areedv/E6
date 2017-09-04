@@ -1,0 +1,94 @@
+---
+title: "Treningsplan for løpegruppa E6 høsten 2017"
+author: "Are Edvardsen"
+date: "4\\. september 2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Om treningen og de ulike delene i programmet
+Planen er satt opp med hensyn til at nye folk skal kunne delta samtidig som at
+den bygger videre på treningen fra første halvår 2017. Alle som følger
+programmet vil ha godt utbytte uansett om ambisjonen er å komme i bedre form
+eller å nå et tidsmål på en gitt løpsdistanse. All aktivitet er basert på tid
+(og ikke distanse) slik at alle løper sammen. Det sosiale er viktig, også for
+å få best mulig utbytte av treningen. Løping er dessverre ikke den mest
+skånsomme aktiviteten man kan bedrive og de som ikke har løpt noe særlig før bør
+derfor være litt forsiktig, i alle fall i starten (se "Rolig langtur").
+
+
+### Intervall
+Intervalltrening er effektivt for å få bedre oksygenopptak, sterkere hjerte (kondisjon). Bedre kondisjon kan blandt annet måles i lavere hvilepuls. Alle
+øktene løpes "ut-og-tilbake" slik at alle ender opp ved start for hvert andre
+drag. På den måten trener vi sammen samtidig som alle får optimalt utbytte
+(de sprekeste løper lengst). Vi løper som regel på fortau og gangvei og da er
+det viktig å holde til høyre side av hensyn til oss selv (de som vil løpe
+forbi) og andre som måtte være ute.
+
+Noen tips få mest mulig ut av intervalltreningen:
+
+* det er lov å bli sliten, men man skal ikke løpe seg "stiv", løp kontrollert
+og ikke raskere enn at man har kapasistet til å øke farten
+
+* prøv å ta det litt rolig på det første og kanskje også det andre om det er mange drag
+
+* det siste draget skal gå like fort som- eller raskere enn det første
+
+* hold deg i bevegelse i pausene (gå), da klargjøres musklene mer
+effektiv for neste drag
+
+* om man føler at man må holde seg på knærne så har intensiteten vært for høy
+
+De som har egnet klokke for å følge med på tida må gjerne ta det med og hjelpe
+de andre som ikke har
+
+
+### Rolig langtur
+Rolig langtur bidrar blandt annet til bedre utholdenhet og blodforsyning ut til musklene. Varighet er viktig her og vi starter med 1 time og øker gradvis til
+1 time og 20 minutter mot slutten av året. Som for intervallene løpes det
+"ut-og-tilbake" der man snur etter halvgått tid slik at alle er samlet når vi
+kommer tilbake. Langturen SKAL være så rolig at man kan snakke uanstrengt. For
+mange betyr det at man går i motbakkene.
+
+De som ikke har løpt noe særlig tidligere kan vurdere å erstatte løping med
+anne aktivitet slik som fot/skitur, sykling, svømming etc., i alle fall i
+starten
+
+
+### Testløp
+De som følger programmet vil komme i bedre form og for mange vil det være en
+god motivasjon å få et mål på hvordan man ligger an. Testløpet er i
+utgangspunktet 3000 m der vi løper langs Evjenveien 3 ganger mellom Skipper
+Arnesens vei (start) og Uranusveien. Om man ønsker en kortere distanse kan man
+heller løpe distansen 1 eller 2 ganger. Man må selv holde rede på tid og
+distanse for de ulike testløpene. 
+
+
+## Plan høsten 2017
+
+|Uke|Dato|Oppvarming (min)|Intervall|Nedjogg (min)|Rolig langtur (min)|
+|:---|:---|:---:|:---|:---:|---:|
+|35|Sep 3||||60|
+|36|Sep 4--10|15-20|10 x 1 min, pause 30 s gange|10|60|
+|37|Sep 11--17|15 + 4 stigningsløp|Testløp|10|60|
+|38|Sep 18--24|15-20|6 x 2 min, pause 30 s gange|10|60|
+|39|Sep 25--1|15-20|12 x 1 min, pause 30 s gange|10|60|
+|40|Okt 2--8|15-20|7 x 2 min, pause 30 s gange|10|60|
+|41|Okt 9--15|15-20|10 x 45 s, pause 15 s gange|10|60|
+|42|Okt 16--22|15-20|8 x 2 min, pause 30 s gange|10|70|
+|43|Okt 23--29|15-20|12 x 45 s, pause 15 s gange|10|70|
+|44|Okt 30--5|15 + 4 stigningsløp|Testløp|10|70|
+|45|Nov 6--12|15-20|4 x 4 min, pause 1 min gange|10|70|
+|46|Nov 13--19|15-20|14 x 45 s, pause 15 s gange|10|70|
+|47|Nov 20--26|15-20|6 x 3 min, pause 1 min gange|10|70|
+|48|Nov 27--3|15-20|16 x 45 s, pause 15 s gange|10|80|
+|49|Des 4--10|15-20|4 x 5 min, pause 1 min gange|10|80|
+|50|Des 11--17|15-20|18 x 45 s, pause 15 s gange|10|80|
+|51|Des 18--24|15 + 4 stigningsløp|Testløp|10|80|
+|52|Des 25--31|15-20|9 x 2 min, pause 30 s gange|10|80|
+|1|Jan 1--6|15-20|10 x 1 min, pause 30 s gange|10|Mørketidsløpet?|
