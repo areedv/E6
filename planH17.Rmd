@@ -3,8 +3,8 @@ title: "Treningsplan for løpegruppa E6 høsten 2017"
 author: "Are Edvardsen"
 date: "4\\. september 2017"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ## Om treningen og de ulike delene i programmet
@@ -19,7 +19,7 @@ derfor være litt forsiktig, i alle fall i starten (se "Rolig langtur").
 
 
 ### Intervall
-Intervalltrening er effektivt for å få bedre oksygenopptak, sterkere hjerte 
+Intervalltrening er effektivt for å få bedre oksygenopptak og sterkere hjerte 
 (kondisjon). Bedre kondisjon kan blant annet måles i lavere hvilepuls. Alle
 øktene løpes "ut-og-tilbake" slik at alle ender opp ved start for hvert andre
 drag. På den måten trener vi sammen samtidig som alle får optimalt utbytte
