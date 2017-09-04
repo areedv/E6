@@ -3,13 +3,9 @@ title: "Treningsplan for løpegruppa E6 høsten 2017"
 author: "Are Edvardsen"
 date: "4\\. september 2017"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Om treningen og de ulike delene i programmet
 Planen er satt opp med hensyn til at nye folk skal kunne delta samtidig som at
